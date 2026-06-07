@@ -113,8 +113,6 @@ Each scenario shows estimated score improvement, new graduation prediction, and 
 
 <div align="center">
 
-Made with ❤️ by **[YOUR NAME]**
-
 [![GitHub](https://github.com/DimasZahranW)]
 [![LinkedIn](www.linkedin.com/in/dimas-zahran-wicaksana)]
 
