@@ -42,6 +42,7 @@ export default function Sidebar({ user, onLogout }) {
           </div>
           <div>
             <div style={{ fontWeight: 800, color: "#fff", fontSize: "14px" }}>MONEV UT</div>
+            <div style={{ fontWeight: 600, color: "#fff", fontSize: "10px" }}>by DIMAS ZAHRAN WICAKSANA</div>
             <div style={{ fontSize: "10px", color: "rgba(255,255,255,0.4)" }}>Monitoring & Evaluasi</div>
           </div>
         </div>

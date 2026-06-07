@@ -78,6 +78,7 @@ export default function Login({ onLoginSuccess }) {
         </div>
 
         <h1 style={{ fontSize: "28px", fontWeight: 800, margin: "0 0 8px", textAlign: "center" }}>MONEV UT</h1>
+        <h1 style={{ fontSize: "16px", fontWeight: 800, margin: "0 0 8px", textAlign: "center" }}>by DIMAS ZAHRAN WICAKSANA</h1>
         <p style={{ fontSize: "14px", opacity: 0.7, margin: "0 0 40px", textAlign: "center" }}>
           Sistem Monitoring & Evaluasi
           <br />

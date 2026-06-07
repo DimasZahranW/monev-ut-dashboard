@@ -3,10 +3,6 @@ backend/__pycache__/
 backend/*.pyc
 backend/.env
 
-# Node
-frontend/node_modules/
-
-
 # Database
 *.db
 *.sqlite
